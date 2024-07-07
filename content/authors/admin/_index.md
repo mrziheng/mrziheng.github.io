@@ -24,7 +24,8 @@ role: PhD. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Institute of Energy, Environment, and Economy
+  - name: Institute of Energy, Environment, and Economy 
+  
           Tsinghua University
     url: www.3e.tsinghua.edu.cn
 
@@ -34,18 +35,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:mrziheng@outlook.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/mrziheng
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=zh-CN&user=T2j-mtUAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0009-0005-6671-9426
 
 interests:
   - Power-system Modeling
