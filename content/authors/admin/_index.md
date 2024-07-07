@@ -3,7 +3,7 @@
 title: 朱子恒
 
 # Name pronunciation (optional)
-name_pronunciation: Zhu Ziheng
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ziheng
@@ -24,7 +24,7 @@ role: PhD. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Institute of Energy, Environment, and Economy
+  - name: Institute of Energy, Environment, and Economy, Tsinghua University
     url: www.3e.tsinghua.edu.cn
 
 # Social network links
@@ -53,37 +53,33 @@ interests:
   - Artificial Intelligence
 
 education:
-  - area: PhD Management Science and Engineering
+  - area: PhD in Management Science and Engineering
     institution: Tsinghua University
     date_start: 2021-09-01
-    date_end: 2020-12-31
+    date_end: 2026-06-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc in Mathematics and Applied Mathematics
+    institution: Renmin University of China
+    date_start: 2017-09-09
+    date_end: 2021-06-06
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Mathematical analysis
+      - Stochastic process
+      - Econometrics
+  - area: BSc in Computer Science and Technology
+    institution: Renmin University of China
+    date_start: 2017-09-09
+    date_end: 2021-06-06
     summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Fundamentals of Compiling
+      - Introduction to Database
+      - Graph Theory
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
