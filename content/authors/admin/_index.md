@@ -3,7 +3,7 @@
 title: 朱子恒
 
 # Name pronunciation (optional)
-name_pronunciation: ZHU Ziheng
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ziheng
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Institute of Energy, Environment, and Economy
+    url: www.3e.tsinghua.edu.cn
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:mrziheng@outlook.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -47,15 +47,16 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Power-system Modeling
+  - Optimization
+  - Renewable energy
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Management Science and Engineering
+    institution: Tsinghua University
+    date_start: 2021-09-01
+    date_end: 2026-06-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
