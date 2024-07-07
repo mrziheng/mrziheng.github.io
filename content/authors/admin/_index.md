@@ -24,9 +24,7 @@ role: PhD. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Institute of Energy, Environment, and Economy 
-  
-          Tsinghua University
+  - name: Tsinghua University
     url: www.3e.tsinghua.edu.cn
 
 # Social network links
