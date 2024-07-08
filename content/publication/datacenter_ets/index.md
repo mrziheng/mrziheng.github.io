@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Incorporating Data Centers into China’s National Carbon Emissions Trading System'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,7 +28,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: Proceedings of the CSEE
-publication_short: In *ICW*
+publication_short: PCSEE
 
 abstract: China’s data center industry is expanding rapidly, with power consumption and indirect greenhouse gas emissions surging. To achieve “carbon peak” and “carbon neutrality” targets, data centers could be covered by China’s national carbon emissions trading system to incentivize its energy efficiency improvement and green electricity use. Based on the operation mechanism of China’s national carbon emissions trading system and key features of data center operation, this paper proposes mechanisms to incorporate data centers into China’s national emissions trading system, including the allocation method of emissions quota, emissions accounting approaches, data quality control and green power trading. We also propose thresholds and corresponding boundaries for data center coverage.
 
