@@ -133,12 +133,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -173,5 +171,4 @@ awards:
 ---
 
 ## About Me
-
-I am a Ph.D. candidate at the Institute of Energy, Environment and Economy, Tsinghua University, and my advisor is Da Zhang (http://www.energyda.cn). My research interests includes ultra-high resolution power system optimization modeling, multiple energy resource assessment, optimization theory, and the application of artificial intellegence in management sciences. I have developed the Energy-Resource Assessment Model (E-RAM), Renewable Energy Siting and Power-system Optimization Model (RESPO), Integrated Sustainable Power-system Optimization Model series (including CISPO for China and GISPO for the whole world). I graguated from Remin University of China (https://www.ruc.edu.cn) and recieved bachelor degrees (mathematics and computer science) from School of Information (http://info.ruc.edu.cn).
+I am a Ph.D. candidate at the Institute of Energy, Environment and Economy, Tsinghua University, and my advisor is Da Zhang (http://www.energyda.cn). My research interests includes ultra-high resolution power system optimization modeling, multiple energy resource assessment, optimization theory, and the application of artificial intellegence in management sciences. I have developed the Energy-Resource Assessment Model (E-RAM), Renewable Energy Siting and Power-system Optimization Model (RESPO, https://github.com/mrziheng/RESPO), Integrated Sustainable Power-system Optimization Model series (including CISPO for China and GISPO for the whole world). I graguated from Remin University of China (https://www.ruc.edu.cn) and recieved bachelor degrees (mathematics and computer science) from School of Information (http://info.ruc.edu.cn).
