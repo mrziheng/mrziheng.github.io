@@ -1,11 +1,9 @@
 ---
-title: PyTorch
+title: CISPO
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: 
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Power Model
 ---
 
 PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
