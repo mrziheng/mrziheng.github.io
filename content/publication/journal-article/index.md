@@ -12,7 +12,7 @@ date: "2024-02-026T00:00:00Z"
 doi: "https://doi.org/10.1073/pnas.2306517121"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-02-26T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,8 +20,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Proceedings of the National Academy of Sciences  121*(10)"
+publication_short: "PNAS"
 
 abstract: China has committed to achieve net carbon neutrality by 2060 to combat global climate change, which will require unprecedented deployment of negative emissions technologies, renewable energies (RE), and complementary infrastructure. At terawatt-scale deployment, land use limitations interact with operational and economic features of power systems. To address this, we developed a spatially resolved resource assessment and power systems planning optimization that models a full year of power system operations, sub-provincial RE siting criteria, and transmission connections. Our modeling results show that wind and solar must be expanded to 2,000 to 3,900 GW each, with one plausible pathway leading to 300 GW/yr combined annual additions in 2046 to 2060, a three-fold increase from today. Over 80% of solar and 55% of wind is constructed within 100 km of major load centers when accounting for current policies regarding land use. Large-scale low-carbon systems must balance key trade-offs in land use, RE resource quality, grid integration, and costs. Under more restrictive RE siting policies, at least 740 GW of distributed solar would become economically feasible in regions with high demand, where utility-scale deployment is limited by competition with agricultural land. Effective planning and policy formulation are necessary to achieve China’s climate goals.
 
@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: RAW.cn'
   focal_point: ""
   preview_only: false
 
