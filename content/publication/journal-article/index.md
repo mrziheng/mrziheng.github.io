@@ -2,7 +2,7 @@
 title: "Spatially resolved land and grid model of carbon neutrality in China"
 authors:
 - Da Zhang
-- admin
+- Ziheng Zhu
 - Shi Chen
 - et al.
 author_notes:
