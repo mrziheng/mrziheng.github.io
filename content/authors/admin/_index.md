@@ -3,7 +3,7 @@
 title: 朱子恒
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: Zhu Ziheng
 
 # Full name (for SEO)
 first_name: Ziheng
