@@ -174,4 +174,4 @@ awards:
 
 ## About Me
 
-I am a Ph.D. candidate at the Institute of Energy, Environment and Economy, Tsinghua University, and my advisor is Da Zhang (http://www.energyda.cn/).
+I am a Ph.D. candidate at the Institute of Energy, Environment and Economy, Tsinghua University, and my advisor is Da Zhang (http://www.energyda.cn).
