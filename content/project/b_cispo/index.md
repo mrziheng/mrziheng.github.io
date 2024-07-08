@@ -1,5 +1,5 @@
 ---
-title: CISPO
+title: China Integrated Sustainable Power-system Optimization Model (CISPO)
 date: 2023-10-26
 external_link: 
 tags:
