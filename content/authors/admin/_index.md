@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD. Candidate
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -174,4 +174,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. candidate at the Institute of Energy, Environment and Economy, Tsinghua University, and my advisor is Da Zhang (http://www.energyda.cn/).
