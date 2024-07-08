@@ -1,6 +1,6 @@
 ---
 title: Eenrgy-Resource Assessment Moel (E-RAM)
-date: 2023-10-20
+date: 2023-10-29
 external_link:
 tags:
   - Resource Assessment
