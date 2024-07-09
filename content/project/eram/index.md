@@ -1,5 +1,5 @@
 ---
-title: Eenrgy-Resource Assessment Model
+title: Energy-Resource Assessment Model
 date: 2023-10-29
 external_link:
 tags:
