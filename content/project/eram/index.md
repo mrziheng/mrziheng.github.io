@@ -6,6 +6,12 @@ tags:
   - Resource Assessment
 ---
 
-In the E-RAM model, we assess the resource potential of wind (onshore + offhore), solar PV (utility-scale + distributed), concentrating solar power, hydropower, pumped hydro storage, biomass, and carbon sequestration.
+The E-RAM model assesses various resource potential related to energy, such as wind, solar, hydropower, and storage, etc.
 
 <!--more-->
+
+# Introduction
+
+<img src="./eram.svg">
+
+# Results
