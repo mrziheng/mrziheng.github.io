@@ -6,7 +6,7 @@ tags:
   - Resource Assessment
 ---
 
-The E-RAM model assesses various resource potential related to energy, such as wind, solar, hydropower, and storage, etc.
+The E-RAM model assesses various resource potential related to energy.
 
 <!--more-->
 
