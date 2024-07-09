@@ -6,6 +6,8 @@ tags:
   - Power Model
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+The CISPO model is a power-system planning model for China, which co-optimizes capacity expansion and system operation over long chronogical time (8,760 hours) with ultra-high resolution for VRE at cell-level and hydropower at dam site level.
 
 <!--more-->
+
+<img src="cispo_eng.svg">

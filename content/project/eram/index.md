@@ -1,5 +1,5 @@
 ---
-title: Eenrgy-Resource Assessment Moel (E-RAM)
+title: Eenrgy-Resource Assessment Model (E-RAM)
 date: 2023-10-29
 external_link:
 tags:
