@@ -1,5 +1,5 @@
 ---
-title: Global Integrated Sustainable Power-system Optimization Model (GISPO)
+title: Global Integrated Sustainable Power-system Optimization Model
 date: 2023-10-20
 external_link: 
 tags:
