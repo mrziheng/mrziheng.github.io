@@ -48,8 +48,9 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Power system
+  - Electricity market
+  - Weather prediction
 
 education:
   - area: PhD Artificial Intelligence
