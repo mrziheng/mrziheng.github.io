@@ -1,0 +1,29 @@
+<!-- layouts/partials/map/map.html -->
+
+<div id="map" style="height: 80vh;"></div>
+
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+<!-- 图例容器 -->
+<div id="legend" style="position: absolute; top: 10px; right: 10px; background: white; padding: 10px; z-index: 1000;">
+  <h4>图例</h4>
+  <div id="legend-content"></div>
+</div>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<!-- 注入配置参数（来自 index.md 的 Front Matter） -->
+<script>
+  window.mapConfig = {
+    geojsonPath: "{{ .Params.geojson_path }}",
+    colorKey: "{{ .Params.color_key }}",
+    colorRanges: {{ .Params.color_ranges | jsonify }},
+    colorPalette: {{ .Params.color_palette | jsonify }}
+  };
+</script>
+
+<!-- 加载地图逻辑脚本 -->
+{{ $mapjs := resources.Get "partials/map/map.js" | minify }}
+<script src="{{ $mapjs.Permalink }}"></script>
