@@ -35,7 +35,8 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Homepage"
+      #text: "Homepage"
+      icon: 🏠
 
 # Site footer
 footer:
