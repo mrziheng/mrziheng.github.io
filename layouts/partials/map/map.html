@@ -1,29 +1,64 @@
-<!-- layouts/partials/map/map.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{ .Title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>#map { height: 90vh; width: 100%; }</style>
+</head>
+<body>
+  <h1>{{ .Title }}</h1>
+  <div id="map"></div>
 
-<div id="map" style="height: 80vh;"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
-<!-- Leaflet CSS -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <!-- 将 geojson_files 转为 JS 变量 -->
+  <script>
+    const config = {{ .Params.geojson_files | jsonify }};
+  </script>
 
-<!-- 图例容器 -->
-<div id="legend" style="position: absolute; top: 10px; right: 10px; background: white; padding: 10px; z-index: 1000;">
-  <h4>图例</h4>
-  <div id="legend-content"></div>
-</div>
+  <script>
+    const map = L.map('map').setView([20, 0], 2);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18
+    }).addTo(map);
 
-<!-- Leaflet JS -->
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    config.forEach(layer => {
+      const { path, field, thresholds, colors } = layer;
 
-<!-- 注入配置参数（来自 index.md 的 Front Matter） -->
-<script>
-  window.mapConfig = {
-    geojsonPath: "{{ .Params.geojson_path }}",
-    colorKey: "{{ .Params.color_key }}",
-    colorRanges: {{ .Params.color_ranges | jsonify }},
-    colorPalette: {{ .Params.color_palette | jsonify }}
-  };
-</script>
+      function getColor(value) {
+        for (let i = thresholds.length - 1; i >= 0; i--) {
+          if (value > thresholds[i]) {
+            return colors[i + 1] || colors[colors.length - 1];
+          }
+        }
+        return colors[0];
+      }
 
-<!-- 加载地图逻辑脚本 -->
-{{ $mapjs := resources.Get "partials/map/map.js" | minify }}
-<script src="{{ $mapjs.Permalink }}"></script>
+      function style(feature) {
+        const v = feature.properties[field];
+        return {
+          fillColor: getColor(v),
+          weight: 1,
+          color: 'white',
+          opacity: 1,
+          fillOpacity: 0.7
+        };
+      }
+
+      fetch(path)
+        .then(res => res.json())
+        .then(data => {
+          L.geoJSON(data, {
+            style: style,
+            onEachFeature: (feature, layer) => {
+              const props = feature.properties;
+              layer.bindPopup(`<pre>${JSON.stringify(props, null, 2)}</pre>`);
+            }
+          }).addTo(map);
+        });
+    });
+  </script>
+</body>
+</html>
