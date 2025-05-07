@@ -86,7 +86,7 @@ document.addEventListener("DOMContentLoaded", function () {
   legend.addTo(map);
 
   // 加载 GeoJSON
-  fetch("/data/global-grid.geojson")
+  fetch("/assets/data/gis/pv_cf_2020.geojson")
     .then(response => response.json())
     .then(data => {
       L.geoJSON(data, {
