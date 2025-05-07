@@ -37,7 +37,7 @@
             .then(response => response.json())
             .then(data => {
                 // 获取属性值范围
-                var values = data.features.map(f => f.properties.value);
+                var values = data.features.map(f => f.properties.cf);
                 var minValue = Math.min(...values);
                 var maxValue = Math.max(...values);
 
