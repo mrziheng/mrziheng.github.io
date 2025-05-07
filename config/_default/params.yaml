@@ -34,14 +34,14 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo: 🏠
+    #logo:
       #text: "Homepage"
       #icon: 🏠
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Ziheng Zhu. This work is licensed under {license}'
+    notice: '© {year} Ziheng Zhu.'
     license:
       enable: true
       allow_derivatives: false
