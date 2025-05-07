@@ -35,7 +35,7 @@
         var colorScale = chroma.scale(['#ffffcc','#ffeda0','#fed976','#feb24c','#fd8d3c','#fc4e2a','#e31a1c','#bd0026','#800026']);
 
         // 获取数据
-        fetch('/data/global-grid.geojson')
+        fetch('/assets/data/gis/pv_cf_2020.geojson')
             .then(response => response.json())
             .then(data => {
                 // 获取属性值范围
