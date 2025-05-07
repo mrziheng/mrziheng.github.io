@@ -35,13 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "      🏠"
-      #icon: 🏠
+      text: "🏠"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Ziheng Zhu.'
+    notice: '© {year} Ziheng Zhu All Reserved.'
     license:
       enable: true
       allow_derivatives: false
