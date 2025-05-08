@@ -63,6 +63,20 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: resume-skills
+    content:
+      title: 技能与爱好
+      text: ''
+      username: admin
+    design:
+      columns: '1'
+  - block: resume-awards
+    content:
+      title: 荣誉奖励
+      text: ''
+      username: admin
+    design:
+      columns: '1'
   - block: collection
     id: talks
     content:
