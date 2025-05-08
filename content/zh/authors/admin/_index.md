@@ -70,20 +70,22 @@ education:
     institution: 中国人民大学
     date_start: 2017-09-09
     date_end: 2021-06-06
-    #summary: |
-    #  Courses included:
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |
+      主要课程：
+      数据库系统概论，计算机组成原理，算法分析与设计，操作系统，
+      计算机网络，数据结构，计算理论，图论
   - area: 数学与应用数学（学士）
     institution: 中国人民大学
     date_start: 2017-09-09
     date_end: 2021-06-06
-    #summary: |
-    #  Courses included:
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |
+      主要课程：
+      数学分析，统计学，随机过程，
+      实变函数，应用时间序列分析，
+      数据库系统概论，计算机组成原理，
+      算法分析与设计，操作系统，
+      计算机网络，数据结构，计算理论，图论，
+      离散数学，微观经济学，计量经济学
 #work:
 #  - position: Director of Cloud Infrastructure
 #    company_name: GenCoin
@@ -143,7 +145,7 @@ skills:
         icon: camera
 
 languages:
-  - name: Chinese
+  - name: 中文
     percent: 100
   - name: English
     percent: 85
@@ -154,8 +156,8 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: 清华之友-解振华能源环境奖学金综合优秀奖
-    #url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2024-05-25'
+    url: https://www.env.tsinghua.edu.cn/info/1129/8987.htm
+    date: '2024-06-21'
     awarder: 清华大学
     #icon: coursera
     #summary: |
