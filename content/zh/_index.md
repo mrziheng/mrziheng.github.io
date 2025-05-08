@@ -63,6 +63,14 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
   - block: resume-skills
     content:
       title: 技能与爱好
@@ -73,6 +81,13 @@ sections:
   - block: resume-awards
     content:
       title: 荣誉奖励
+      text: ''
+      username: admin
+    design:
+      columns: '1'
+  - block: resume-languages
+    content:
+      title: 语言
       text: ''
       username: admin
     design:

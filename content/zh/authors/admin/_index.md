@@ -3,7 +3,7 @@
 title: 朱子恒
 
 # Name pronunciation (optional)
-name_pronunciation: Zhu Zi Heng
+name_pronunciation: Zhu Ziheng
 
 # Full name (for SEO)
 first_name: 子恒
@@ -57,7 +57,11 @@ education:
     institution: 清华大学
     date_start: 2021-09-01
     date_end: 2026-06-01
-    #summary: |
+    summary: |
+      主要课程：
+      高级机器学习（大语言模型方向），应用随机过程，模式识别，组合数学，
+      机器学习在能源动力工程中的应用，能源经济学与政策，能源互联网运行、调度与规划，
+      全球气候变化与应对，碳捕集、利用与封存技术
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
     #  text: 'Read Thesis'
