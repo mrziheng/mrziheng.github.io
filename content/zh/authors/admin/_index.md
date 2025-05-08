@@ -57,33 +57,29 @@ education:
     institution: 清华大学
     date_start: 2021-09-01
     date_end: 2026-06-01
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    #summary: |
+    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
   - area: 计算机科学与技术（学士）
     institution: 中国人民大学
     date_start: 2017-09-09
     date_end: 2021-06-06
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #summary: |
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: 数学与应用数学（学士）
     institution: 中国人民大学
     date_start: 2017-09-09
     date_end: 2021-06-06
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #summary: |
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #work:
 #  - position: Director of Cloud Infrastructure
 #    company_name: GenCoin
@@ -154,24 +150,17 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: 清华之友-解振华能源环境奖学金综合优秀奖
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    #url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2024-05-25'
     awarder: 清华大学
     #icon: coursera
     #summary: |
   - title: 2019年度最佳个人开发者
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2020-01-03'
     awarder: 华为公司
     #icon: edx
     #summary: |
-  #- title: 'Object-Oriented Programming in R'
-  #  url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-  #  certificate_url: https://www.datacamp.com
-  #  date: '2023-01-21'
-  #  awarder: datacamp
-  #  icon: datacamp
-  #  summary: |
 ---
 
 ## 个人简介
