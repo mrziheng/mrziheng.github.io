@@ -53,19 +53,19 @@ interests:
   - 天气预报
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 管理科学与工程（博士）
+    institution: 清华大学
+    date_start: 2021-09-01
+    date_end: 2026-06-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 计算机科学与技术（学士）
+    institution: 中国人民大学
+    date_start: 2017-09-09
+    date_end: 2021-06-06
     summary: |
       GPA: 3.8/4.0
 
@@ -73,13 +73,13 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 数学与应用数学（学士）
+    institution: 中国人民大学
+    date_start: 2017-09-09
+    date_end: 2021-06-06
     summary: |
-      GPA: 3.4/4.0
-      
+      GPA: 3.8/4.0
+
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -115,15 +115,15 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: GIS
         description: ''
-        percent: 40
+        percent: 100
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -143,12 +143,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: English
+    percent: 85
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -182,6 +180,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## 个人简介
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
