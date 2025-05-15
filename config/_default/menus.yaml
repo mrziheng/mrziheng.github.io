@@ -13,15 +13,18 @@ main:
   #- name: Talks
   #  url: /#talks
   #  weight: 12
-  - name: Publications
-    url: publication/
-    weight: 10
-  - name: Experience
+  - name: Experience   \n个人经历
     url: experience/
+    weight: 10
+  - name: Publications  \n论文发表
+    url: publication/
     weight: 20
-  - name: Projects
-    url: projects/
+  - name: Talks   \n学术报告
+    url: post/
     weight: 30
-  - name: Teaching
-    url: teaching/
+  - name: Projects  \n项目开发
+    url: projects/
     weight: 40
+  - name: Data \n 数据开源
+    url: teaching/
+    weight: 50
