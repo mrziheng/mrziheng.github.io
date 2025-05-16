@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: wave-haikei.svg
+          filename: blurry-gradient-haikei.svg
           filters:
             brightness: 1.0
           size: cover
