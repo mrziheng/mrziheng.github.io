@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=nXp7Q-gAAAAJ&hl=zh-CN
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0009-0005-6671-9426
+    url: https://orcid.org/0009-0005-6671-9426
 
 interests:
   - 人工智能
