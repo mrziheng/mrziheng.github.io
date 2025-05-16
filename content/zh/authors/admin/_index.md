@@ -168,4 +168,4 @@ awards:
 
 ## 个人简介
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+朱子恒，清华大学能源环境经济研究所博士研究生 (https://www.3e.tsinghua.edu.cn)，导师为张达长聘副教授 (http://www.energyda.cn)。研究兴趣包括高时空分辨率新型电力系统规划模型开发、能源资源潜力评估、优化理论、和人工智能在管理科学中的应用。已开发多个模型，例如能源资源评估模型（E-RAM）、可再生能源布局与电力系统规划模型（RESPO）、可持续电力系统综合优化模型系列（中国CISPO、全球GISPO）。2021年毕业于中国人民大学 (https://www.ruc.edu.cn)，获得数学与应用数学理学士和计算机科学与技术工学士学位 (http://info.ruc.edu.cn)。
