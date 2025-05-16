@@ -42,12 +42,12 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.pnas.org/doi/abs/10.1073/pnas.2306517121'
+url_pdf: 'https://www.pnas.org/doi/epdf/10.1073/pnas.2306517121'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'slides/respo_pnas/respo_pnas_cn.pdf'
 url_source: ''
 url_video: ''
 
