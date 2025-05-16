@@ -21,7 +21,7 @@ sections:
     design:
       css_class: light
       background:
-        color: white
+        color: black
         image:
           # Add your image background to `assets/media/`.
           filename: blurry-gradient-haikei.svg
