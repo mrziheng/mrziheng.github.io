@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Spatially resolved land and grid model of carbon neutrality in China"
 authors:
 - Da Zhang
 - Ziheng Zhu
