@@ -62,7 +62,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: B.Sc. in Mathematics and Applied Mathematics
+  - area: B.E. in Computer Science and Technology
     institution: Renmin University of China
     date_start: 2017-09-09
     date_end: 2021-06-01
@@ -71,7 +71,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: B.E. in Computer Science and Technology
+  - area: B.Sc. in Mathematics and Applied Mathematics
     institution: Renmin University of China
     date_start: 2017-09-09
     date_end: 2021-06-01
@@ -117,9 +117,9 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: GIS
         description: ''
-        percent: 40
+        percent: 100
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -140,11 +140,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
