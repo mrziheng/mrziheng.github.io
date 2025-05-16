@@ -53,33 +53,29 @@ interests:
   - Weather prediction
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. in Management Science and Engineering
+    institution: Tsinghua University
+    date_start: 2021-09-01
+    date_end: 2026-06-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Sc. in Mathematics and Applied Mathematics
+    institution: Renmin University of China
+    date_start: 2017-09-09
+    date_end: 2021-06-01
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.E. in Computer Science and Technology
+    institution: Renmin University of China
+    date_start: 2017-09-09
+    date_end: 2021-06-01
     summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -184,4 +180,4 @@ awards:
 
 ## About Me
 
-I am a Ph.D. candidate at the Institute of Energy, Environment and Economy, Tsinghua University (https://www.3e.tsinghua.edu.cn/en), under the supervision of Da Zhang (http://www.energyda.cn). My research interests include ultra-high resolution power system optimization modeling, multiple energy resource assessment, optimization theory, and the application of artificial intelligence in management sciences. I have developed several models, including the Energy-Resource Assessment Model (E-RAM), the Renewable Energy Siting and Power-system Optimization Model (RESPO, https://github.com/mrziheng/RESPO), the Integrated Sustainable Power-system Optimization Model series (including CISPO for China and GISPO for the whole world). I graduated from Renmin University of China (https://www.ruc.edu.cn) and received dual bachelor's degrees in mathematics and computer science from the School of Information (http://info.ruc.edu.cn).
+I am a Ph.D. candidate at the Institute of Energy, Environment and Economy, Tsinghua University (https://www.3e.tsinghua.edu.cn), under the supervision of Da Zhang (http://www.energyda.cn). My research interests include ultra-high resolution power system optimization modeling, multiple energy resource assessment, optimization theory, and the application of artificial intelligence in management sciences. I have developed several models, including the Energy-Resource Assessment Model (E-RAM), the Renewable Energy Siting and Power-system Optimization Model (RESPO, https://github.com/mrziheng/RESPO), the Integrated Sustainable Power-system Optimization Model series (including CISPO for China and GISPO for the whole world). I graduated from Renmin University of China (https://www.ruc.edu.cn) and received dual bachelor's degrees in mathematics and computer science from the School of Information (http://info.ruc.edu.cn).
