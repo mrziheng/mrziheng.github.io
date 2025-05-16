@@ -47,7 +47,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'slides/respo_pnas/respo_pnas_cn.pdf'
+url_slides: slides/respo_pnas/respo_pnas_cn.pdf
 url_source: ''
 url_video: ''
 
