@@ -73,4 +73,7 @@ projects: []
 slides: example
 ---
 
-![RESPO Paper](paper.png "RESPO Paper")
+<figure>
+  <img src="./paper.png" alt="pnas_papaer">
+  <figcaption>Figure 1: PNAS paper.</figcaption>
+</figure>
