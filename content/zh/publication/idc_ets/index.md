@@ -19,7 +19,7 @@ publishDate: "2024-07-17"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of the CSEE* 2024, 44 (24), "
+publication: "*Proceedings of the CSEE* 2024, 44 (14)"
 publication_short: "PCSEE"
 
 abstract: 当前，我国数据中心产业发展迅速，耗电量同步快速增长，导致了大量的间接温室气体排放。在“碳达峰、碳中和”目标提出的背景下，将数据中心纳入全国碳排放权交易市场(简称全国碳市场)可以引导数据中心提升能效和使用清洁电力。该文参考全国碳市场运行基本原则，从数据中心各组成部分的运行特征出发，提出数据中心纳入全国碳市场后的碳排放配额分配方法、碳排放核算方法、数据质量控制与绿色电力交易等管理机制，并提出纳入全国碳市场的数据中心责任主体与规模边界建议。
