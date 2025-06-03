@@ -1,5 +1,5 @@
 ---
-title: "Spatially resolved land and grid model of carbon neutrality in China"
+title: "Integrated modeling for the transition pathway of China's power system"
 authors:
 - Ziheng Zhu
 - Da Zhang*
