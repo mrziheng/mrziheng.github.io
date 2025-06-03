@@ -8,7 +8,7 @@ authors:
 author_notes:
 - "* Corresponding"
 date: "2025-02-17"
-doi: "DOI	https://doi.org/10.1039/D5EE00355E"
+doi: "https://doi.org/10.1039/D5EE00355E"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-03-15"
