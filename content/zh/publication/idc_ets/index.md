@@ -1,5 +1,5 @@
 ---
-title: "Integrated modeling for the transition pathway of China's power system"
+title: "数据中心纳入全国碳排放权交易市场机制研究"
 authors:
 - 朱子恒 (Ziheng Zhu)
 - 张策 (Ce Zhang)
