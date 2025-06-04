@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 代表文章
       filters:
         folders:
           - publication
@@ -56,7 +56,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: 学术汇报
       filters:
         folders:
           - event
