@@ -28,9 +28,9 @@ abstract: Accelerating decarbonization of the power system is at the heart of ac
 summary: A temporally and spatially resolved model charts feasible transition pathways of china's power system tonegative emissions by 2060 through renewables expansion and carbon capture.
 
 tags:
-- CISPO
 - China
 - Power system
+- CISPO
 - Transition pathway
 featured: true
 

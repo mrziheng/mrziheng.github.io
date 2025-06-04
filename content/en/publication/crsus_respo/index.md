@@ -28,11 +28,10 @@ abstract: As countries are releasing their 2035 nationally determined contributi
 summary: This paper examined thedecarbonization pathways for China'spower sector through 2035 and theimplications for its 2035 target setting.They proposed a more robust climateaction framework, including minimumcapacity and generation share targets by2035 for wind and solar energy.
 
 tags:
-- NDC
 - China
 - Power system
 - RESPO
-
+- NDC
 featured: true
 
 # links:
