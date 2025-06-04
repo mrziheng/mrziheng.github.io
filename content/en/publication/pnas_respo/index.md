@@ -33,9 +33,9 @@ abstract: China has committed to achieve net carbon neutrality by 2060 to combat
 summary: To support China’s goal of achieving carbon neutrality by 2060, we find that 2 to 4 terawatts are needed each for wind and solar power, eight to ten times its 2022 installations. A highly spatially resolved model reflecting key trade-offs in land availability per current government policies and grid integration shows that 80% of solar and 55% of wind should be constructed within 100 km of major load centers. The model also suggests that terawatt-level energy storage should be deployed from scratch, and ultra-high voltage inter-provincial transmission should double/triple its current size to ensure sufficient power supply. When land use is subject to even tighter policy restrictions, at least 25% of solar power should be distributed generation.
 
 tags:
+- RESPO
 - China
 - Power system
-- RESPO
 - Land use
 featured: true
 

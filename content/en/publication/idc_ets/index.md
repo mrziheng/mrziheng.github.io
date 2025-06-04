@@ -1,5 +1,5 @@
 ---
-title: "数据中心纳入全国碳排放权交易市场机制研究"
+title: "Incorporating Data Centers into China’s National Carbon Emissions Trading System"
 authors:
 - Ziheng Zhu
 - Ce Zhang
