@@ -114,11 +114,11 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: resume-languages
-    content:
-      title: 语言
-      text: ''
-      username: admin
-    design:
-      columns: '1'
+  #- block: resume-languages
+  #  content:
+  #    title: 语言
+  #    text: ''
+  #    username: admin
+  #  design:
+  #    columns: '1'
 ---
