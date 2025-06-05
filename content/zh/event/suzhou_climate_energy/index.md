@@ -1,39 +1,39 @@
 ---
-title: Example Talk
+title: 高时空精度气象与电力系统耦合建模方法
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: 中国气象学会数值预报应用大会
+event_url: http://www.cms1924.org/WebPage/WebPageDetail_369_0_4259.aspx
 
-location: Hugo Blox Builder HQ
+location: 中国苏州
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street: 狮山路
+  city: 苏州
+  region: 江苏
   postcode: '94305'
-  country: United States
+  country: 中国
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: 气象系统与电力系统耦合建模是发展高比例可再生能源过程中的重要分析方法。
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-05-07T13:00:00Z'
+date_end: '2025-05-09T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-05-25T00:00:00Z'
 
 authors:
   - admin
 
-tags: []
+tags: [气象电力]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 #links:
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+#url_code: 'https://github.com'
+#url_pdf: ''
+url_slides: 'https://drive.google.com/file/d/1KnSEo4nsZVIUA-1fpAIeJgtkYTmHL9gS/view?usp=sharing'
+#url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
