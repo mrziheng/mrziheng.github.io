@@ -20,11 +20,14 @@ main:
     url: publication/
     weight: 10
   - name: Talks • 学术报告
-    url: post/
+    url: event/
     weight: 20
   - name: Projects • 项目开发
     url: projects/
     weight: 30
+  - name: Blog • 个人博客
+    url: post/
+    weight: 40
   - name: Data • 数据开源
     url: teaching/
-    weight: 40
+    weight: 50
