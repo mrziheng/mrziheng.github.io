@@ -9,7 +9,7 @@ address:
   street: 狮山路
   city: 苏州
   region: 江苏
-  postcode: '94305'
+  postcode: ''
   country: 中国
 
 summary: 气象系统与电力系统耦合建模是发展高比例可再生能源过程中的重要分析方法。
@@ -17,8 +17,8 @@ abstract: 加速构建新型电力系统和推动其他难减排部门电气化�
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-05-07T13:00:00Z'
-date_end: '2025-05-09T15:00:00Z'
+date: '2025-05-07T8:00:00Z'
+date_end: '2025-05-09T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
