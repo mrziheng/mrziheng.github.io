@@ -29,5 +29,5 @@ main:
     url: post/
     weight: 40
   - name: Data • 数据开源
-    url: teaching/
+    url: opendata/
     weight: 50
