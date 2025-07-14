@@ -16,7 +16,7 @@ sections:
       title: Teaching
       filters:
         folders:
-          - teaching
+          - opendata
     design:
       view: article-grid
       columns: 2

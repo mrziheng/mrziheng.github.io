@@ -13,10 +13,10 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: 数据开源
       filters:
         folders:
-          - teaching
+          - opendata
     design:
       view: article-grid
       columns: 2
