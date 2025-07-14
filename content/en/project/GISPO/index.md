@@ -1,5 +1,5 @@
 ---
-title: 🌏 Global Integrated Sustainable Power-system Optimization Model (GISPO)
+title: 🌎 Global Integrated Sustainable Power-system Optimization Model (GISPO)
 summary: A spatialtemporally resolved global power system expansion and operation model.
 date: 2025-05-15
 authors:

@@ -1,6 +1,6 @@
 ---
-title:  🇨🇳 China Integrated Sustainable Power-system Optimization Model (CISPO)
-summary: A spatialtemporally resolved global power system expansion and operation model for China!
+title:  🌏 China Integrated Sustainable Power-system Optimization Model (CISPO)
+summary: A spatialtemporally resolved global power system expansion and operation model for China.
 date: 2025-03-25
 
 # Featured image
