@@ -1,7 +1,7 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+title: ☀️ Energy Resource Assessment Model (E-RAM)
+summary: A high resolution resource assessment model for global energy planning, mainly including wind, solar, hydropower, biomass, and carbon capture.
+date: 2025-02-25
 math: true
 authors:
   - admin

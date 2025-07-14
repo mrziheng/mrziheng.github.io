@@ -1,21 +1,21 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title:  🇨🇳 China Integrated Sustainable Power-system Optimization Model (CISPO)
+summary: A spatialtemporally resolved global power system expansion and operation model for China!
+date: 2025-03-25
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 
 authors:
   - admin
-  - Ted
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  - CISPO
+  - China
+  - Power model
+  - Renewable energy
 ---
 
 Welcome 👋

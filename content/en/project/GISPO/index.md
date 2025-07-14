@@ -1,15 +1,16 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: 🌏 Global Integrated Sustainable Power-system Optimization Model (GISPO)
+summary: A spatialtemporally resolved global power system expansion and operation model.
+date: 2025-05-15
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - GISPO
+  - Global
+  - Power Model
+  - Renewable energy
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 ---
 
 Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
