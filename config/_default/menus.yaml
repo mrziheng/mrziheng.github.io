@@ -23,11 +23,8 @@ main:
     url: event/
     weight: 20
   - name: Projects • 项目开发
-    url: projects/
+    url: project/
     weight: 30
-  - name: Blog • 个人博客
-    url: post/
-    weight: 40
   - name: Data • 数据开源
     url: opendata/
-    weight: 50
+    weight: 40
