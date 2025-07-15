@@ -58,7 +58,7 @@ education:
     date_start: 2021-09-01
     date_end: 2026-06-01
     summary: |
-      Major Courses: Advanced Machine Learning (Large Language Model Track), Applied Stochastic Processes, Pattern Recognition, Combinatorial Mathematics, Application of Machine Learning in Energy and Power Engineering, Energy Economics and Policy, Operation, Dispatch, and Planning of the Energy Internet, Global Climate Change and Response, Carbon Capture, Utilization, and Storage Technologies.
+      Major Courses: Advanced Machine Learning (Large Language Model Track), Applied Stochastic Processes, Pattern Recognition, Combinatorial Mathematics, Application of Machine Learning in Energy and Power Engineering, Energy Economics and Policy, Operation, Dispatch, and Planning of the Energy Internet, Global Climate Change and Response, Carbon Capture Utilization and Storage Technologies.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -146,8 +146,8 @@ awards:
   - title: Friends of Tsinghua - Xie Zhenhua Energy and Environment Scholarship 
     url: https://www.env.tsinghua.edu.cn/info/1129/8987.htm
     date: '2024-06-21'
-    awarder: Tsinghua University
-    icon: coursera
+    #awarder: Tsinghua University
+    #icon: coursera
   - title: Best Independent Developer of 2019
     #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
