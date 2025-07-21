@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Open Data
       filters:
         folders:
           - opendata
