@@ -1,5 +1,5 @@
 ---
-title: Talks
+title: 学术报告
 cms_exclude: true
 #url: talk
 

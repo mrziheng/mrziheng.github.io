@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Open Data
 summary: My courses
 type: landing
 
