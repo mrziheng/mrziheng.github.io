@@ -25,7 +25,7 @@ role: 博士研究生
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: 清华大学
-    url: https://www.3e.tsinghua.edu.cn/cn
+    url: https://www.tsinghua.edu.cn
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -141,6 +141,6 @@ awards:
 
 ## 个人简介
 
-朱子恒，清华大学能源环境经济研究所博士研究生 (https://www.3e.tsinghua.edu.cn)，导师为张达长聘副教授 (http://www.energyda.cn)。2021 年毕业于中国人民大学 (https://www.ruc.edu.cn)，在信息学院获得数学与应用数学理学士和计算机科学与技术工学士学位。
+朱子恒，清华大学博士研究生。2021 年毕业于中国人民大学 (https://www.ruc.edu.cn)，在信息学院获得数学与应用数学理学士和计算机科学与技术工学士学位。
 
 研究兴趣聚焦于电力系统转型、可再生能源并网、电力市场机制以及气候能源政策。主要工作包括开发高时空分辨率电力系统优化模型与开放数据集，支撑中国 RESPO/CISPO 模型和全球 GISPO 模型等研究框架。近期研究关注全球净零电力系统、中国碳中和电力转型路径、抽水蓄能与水电灵活性、十五五可再生能源空间布局，以及人工智能数据中心的清洁能源供给方案。也持续探索人工智能与地理空间数据在能源系统分析中的应用，希望通过跨学科方法为可持续、经济、安全的能源未来贡献力量。
