@@ -1,0 +1,63 @@
+<style>
+  .navbar .navbar-brand {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.45rem;
+    min-height: 2.25rem;
+    padding: 0.45rem 0.8rem;
+    border: 1px solid rgba(15, 23, 42, 0.12);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.88);
+    color: rgb(17, 24, 39);
+    font-size: 0.875rem;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: 0.01em;
+    box-shadow: 0 1px 2px rgba(15, 23, 42, 0.06);
+    transition:
+      background-color 160ms ease,
+      border-color 160ms ease,
+      box-shadow 160ms ease,
+      color 160ms ease,
+      transform 160ms ease;
+  }
+
+  .navbar .navbar-brand::before {
+    content: "";
+    width: 1rem;
+    height: 1rem;
+    flex: 0 0 auto;
+    background: currentColor;
+    -webkit-mask: url("data:image/svg+xml,%3Csvg%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3E%3Cpath%20d='M3%2010.8%2012%203l9%207.8v9.2a1%201%200%200%201-1%201h-5.25a1%201%200%200%201-1-1v-5.25h-3.5V20a1%201%200%200%201-1%201H4a1%201%200%200%201-1-1v-9.2Zm2%20.92V19h3.25v-5.25a1%201%200%200%201%201-1h5.5a1%201%200%200%201%201%201V19H19v-7.28l-7-6.07-7%206.07Z'/%3E%3C/svg%3E") center / contain no-repeat;
+    mask: url("data:image/svg+xml,%3Csvg%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3E%3Cpath%20d='M3%2010.8%2012%203l9%207.8v9.2a1%201%200%200%201-1%201h-5.25a1%201%200%200%201-1-1v-5.25h-3.5V20a1%201%200%200%201-1%201H4a1%201%200%200%201-1-1v-9.2Zm2%20.92V19h3.25v-5.25a1%201%200%200%201%201-1h5.5a1%201%200%200%201%201%201V19H19v-7.28l-7-6.07-7%206.07Z'/%3E%3C/svg%3E") center / contain no-repeat;
+  }
+
+  .navbar .navbar-brand:hover,
+  .navbar .navbar-brand:focus-visible {
+    border-color: rgba(5, 150, 105, 0.45);
+    background: rgba(236, 253, 245, 0.96);
+    color: rgb(4, 120, 87);
+    box-shadow: 0 8px 22px rgba(5, 150, 105, 0.12);
+    transform: translateY(-1px);
+  }
+
+  .navbar .navbar-brand:focus-visible {
+    outline: 2px solid rgba(16, 185, 129, 0.35);
+    outline-offset: 3px;
+  }
+
+  .dark .navbar .navbar-brand {
+    border-color: rgba(255, 255, 255, 0.14);
+    background: rgba(255, 255, 255, 0.07);
+    color: rgb(243, 244, 246);
+    box-shadow: none;
+  }
+
+  .dark .navbar .navbar-brand:hover,
+  .dark .navbar .navbar-brand:focus-visible {
+    border-color: rgba(52, 211, 153, 0.58);
+    background: rgba(16, 185, 129, 0.14);
+    color: rgb(167, 243, 208);
+  }
+</style>
