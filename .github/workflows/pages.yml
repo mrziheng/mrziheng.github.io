@@ -56,7 +56,7 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
         run: |
-          hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+          hugo --gc --minify --buildFuture --baseURL "${{ steps.pages.outputs.base_url }}/"
           npx -y pagefind --source public
           if [ -f CNAME ]; then cp CNAME public/CNAME; fi
 
