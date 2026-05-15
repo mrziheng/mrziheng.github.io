@@ -69,7 +69,7 @@ sections:
     content:
       title: 模型与数据
       subtitle: ''
-      text: ''
+      text: 高分辨率能源系统模型与数据集，包括面向全球净零电力系统规划的 GISPO、面向中国碳中和电力转型的 CISPO，以及用于可再生能源、储能、生物质和碳封存资源评估的 E-RAM。
       # Page type to display. E.g. post, talk, publication...
       page_type: project
       # Choose how many pages you would like to display (0 = all pages)

@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Models and Data
-      text: High-resolution power-system planning models, renewable resource datasets, and reproducible research code.
+      text: GISPO, CISPO, and E-RAM connect geospatial resource assessment with power-system planning, hourly operation, storage, transmission, carbon management, and reproducible data workflows.
       filters:
         folders:
           - project

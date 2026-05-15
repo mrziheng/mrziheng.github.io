@@ -1,6 +1,6 @@
 ---
 title: Models and Data
-summary: Power-system planning, renewable resource assessment, and open energy data projects.
+summary: High-resolution power-system optimization models and geospatial resource datasets for global and China-focused net-zero electricity-system analysis.
 type: landing
 
 cascade:
@@ -14,7 +14,7 @@ sections:
     id: project
     content:
       title: Models and Data
-      text: High-resolution power-system planning models, renewable resource datasets, and reproducible research code.
+      text: GISPO, CISPO, and E-RAM connect geospatial resource assessment with power-system planning, hourly operation, storage, transmission, carbon management, and reproducible data workflows.
       filters:
         folders:
           - project

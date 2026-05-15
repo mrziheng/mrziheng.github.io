@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: 模型与数据
-      text: 高分辨率电力系统规划模型、可再生能源资源数据集与可复现研究代码。
+      text: GISPO、CISPO 和 E-RAM 将地理空间资源评估与电力系统规划、逐小时运行、储能、输电、碳管理和可复现数据流程相连接。
       filters:
         folders:
           - project
