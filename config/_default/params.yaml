@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Ziheng Zhu is a Ph.D. candidate at Tsinghua University researching power-system planning, renewable energy integration, electricity markets, and AI-enabled energy analytics.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Ziheng Zhu All Reserved.'
+    notice: '© {year} Ziheng Zhu. All rights reserved.'
     license:
       enable: true
       allow_derivatives: false

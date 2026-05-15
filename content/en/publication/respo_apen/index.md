@@ -1,15 +1,15 @@
 ---
-title: " Spatial planning for China’s renewabl eenergy expansion toward 2030"
+title: "Spatial planning for China's renewable energy expansion toward 2030"
 authors:
 - Ziheng Zhu
 - Shiping Ma
 - Hanjie Mao
 - Et Al.
-date: "2025-06-29"
+date: "2025-11-15"
 doi: "https://doi.org/10.1016/j.apenergy.2025.126413"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-06-29"
+publishDate: "2025-11-15"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,19 +17,19 @@ publishDate: "2025-06-29"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Applied Energy* (398)"
+publication: "*Applied Energy* 398, 126413"
 publication_short: "APEN"
 
-abstract: China is rapidly advancing renewable energy deployment to decarbonize the power system and meet its ambitiousclimate targets. However, existing energy models have limitations in simulating resource availability, generationvariability, and grid integration in a consistent framework with high temporal and spatial resolution, making itdifficult for them to effectively guide policy formulation. In this paper, we develop a model that can co-optimizecapacity expansion and operation for China's power system at the hourly level in a full year and a grid celllevel of 0.1° x 0.1° for wind and solar power deployment, which is unprecedented in terms of temporal andspatial resolution, Applying this modeling tool to inform renewable deployment during the 15th Five-Year Plan(2026-2030), we find that China will have cumulatively 766 GW of wind power and 1880 GW of solar powerinstallations to generate 4.9 PWh/yr by 2030 in the base case, close to the coal power output (5.3 PWh/yr).We further find that onshore wind installations are concentrated in the “Three North” regions, offshore windinstallations are concentrated along the eoastcoasts of Fujian, Zhejiang, and Guangdong, and large-scale solarinstallations are scattered in northern, eastern, and southern China. An additional 350 GW of inter-provincialultra-high voltage transmission and 1200 GWh of energy storage will be installed during the 15th Five-Year Planto balance, the increased renewable installations, The simulated marginal cost of electricity production reveals anincreased variability, presenting challenges for power market regulations, It is recommended to prioritize spatialblanning for renewable energy installations and related industries, and emphasize the critical role of cost-effectivestorage technologies and ultra-high voltage inter-provincial transmissions.
+abstract: China is rapidly advancing renewable energy deployment to decarbonize the power system and meet its climate targets. We develop a power-system model that co-optimizes capacity expansion and operation for China at hourly resolution over a full year, with 0.1° x 0.1° grid-cell siting for wind and solar deployment. Applying the model to the 15th Five-Year Plan period, we find that China could reach 766 GW of wind power and 1880 GW of solar power by 2030 in the base case, generating 4.9 PWh per year. The pathway requires detailed spatial planning, including additional inter-provincial ultra-high-voltage transmission and energy storage to integrate renewable generation.
 
 # Summary. An optional shortened abstract.
-summary: A very high spatialtemporal resolution power system model optimized the layout of renewable energy for China's 15th year planning.
+summary: A high spatial-temporal resolution RESPO model informs China's wind and solar deployment during the 15th Five-Year Plan period.
 
 tags:
 - RESPO
 - China
 - Power system
-- 15th year plan
+- 15th Five-Year Plan
 featured: true
 
 # links:
@@ -68,5 +68,5 @@ slides: example
 
 <figure>
   <img src="./paper.png" alt="apen_papaer">
-  <figcaption>Figure 1: APEN paper.</figcaption>
+  <figcaption>Figure 1: Applied Energy paper.</figcaption>
 </figure>

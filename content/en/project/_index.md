@@ -1,6 +1,6 @@
 ---
-title: Selected Projects
-summary: My courses
+title: Models and Data
+summary: Power-system planning, renewable resource assessment, and open energy data projects.
 type: landing
 
 cascade:
@@ -13,8 +13,8 @@ sections:
   - block: collection
     id: project
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Models and Data
+      text: High-resolution power-system planning models, renewable resource datasets, and reproducible research code.
       filters:
         folders:
           - project

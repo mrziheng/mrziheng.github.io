@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD. Candidate
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,10 +47,11 @@ profiles:
     url: https://orcid.org/0009-0005-6671-9426
 
 interests:
-  - Artificial Intelligence
-  - Power system
-  - Electricity market
-  - Weather prediction
+  - Power system planning
+  - Renewable energy integration
+  - Electricity markets
+  - Artificial intelligence for energy systems
+  - Climate and energy policy
 
 education:
   - area: Ph.D. in Management Science and Engineering
@@ -59,9 +60,6 @@ education:
     date_end: 2026-06-01
     summary: |
       Major Courses: Advanced Machine Learning (Large Language Model Track), Applied Stochastic Processes, Pattern Recognition, Combinatorial Mathematics, Application of Machine Learning in Energy and Power Engineering, Energy Economics and Policy, Operation, Dispatch, and Planning of the Energy Internet, Global Climate Change and Response, Carbon Capture Utilization and Storage Technologies.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: B.E. in Computer Science and Technology
     institution: Renmin University of China
     date_start: 2017-09-09
@@ -74,30 +72,6 @@ education:
     date_end: 2021-06-01
     summary: |
       Major Courses: Mathematical Analysis, Statistics, Stochastic Processes, Real Analysis (or Functions of a Real Variable), Applied Time Series Analysis, Discrete Mathematics, Microeconomics, Econometrics.
-#work:
-#  - position: Director of Cloud Infrastructure
-#    company_name: GenCoin
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2021-01-01
-#    date_end: ''
-#    summary: |2-
-#      Responsibilities include:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - position: Backend Software Engineer
-#    company_name: X
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-#      Responsibilities include:
-#      - Migrated infrastructure to a new data center
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -158,7 +132,7 @@ awards:
 
 ## About Me
 
-I am a Ph.D. candidate at the Institute of Energy, Environment and Economy, Tsinghua University (https://www.3e.tsinghua.edu.cn), under the supervision of Da Zhang (http://www.energyda.cn). I graduated from Renmin University of China (https://www.ruc.edu.cn) and received dual bachelor's degrees in mathematics and computer science from the School of Information (http://info.ruc.edu.cn).
+I am a Ph.D. candidate at the Institute of Energy, Environment and Economy, Tsinghua University (https://www.3e.tsinghua.edu.cn), advised by Da Zhang (http://www.energyda.cn). I received dual bachelor's degrees in mathematics and computer science from the School of Information, Renmin University of China (https://www.ruc.edu.cn).
 
 
-My research interests center on power system transformation, electricity markets, and climate change, with a strong focus on developing novel analytical methods and tools leveraging cutting-edge artificial intelligence technologies. I have successfully developed a series of integrated resource planning models with geographical scopes ranging from China to global applications, created an assessment model for renewable energy investment projects incorporating climate risks and market-based electricity pricing mechanisms, and pioneered the development of a method for extracting critical infrastructure from satellite imagery using vision-language models. I am passionate about contributing to a sustainable, economical, and secure energy future through interdisciplinary research.
+My research focuses on power-system transformation, renewable energy integration, electricity markets, and climate-energy policy. I develop high-resolution optimization models and open datasets for planning low-carbon power systems, including China-focused RESPO/CISPO models and the global GISPO framework. Recent work has examined global net-zero power systems, China's carbon-neutral power pathways, pumped-storage and hydropower flexibility, renewable deployment for the 15th Five-Year Plan, and clean-energy options for AI data centers. I am also interested in using artificial intelligence and geospatial data to build practical tools for a sustainable, economical, and secure energy future.

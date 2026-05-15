@@ -47,10 +47,11 @@ profiles:
     url: https://orcid.org/0009-0005-6671-9426
 
 interests:
-  - 人工智能
-  - 电力系统
+  - 电力系统规划
+  - 可再生能源并网
   - 电力市场
-  - 天气预报
+  - 人工智能与能源系统
+  - 气候与能源政策
 
 education:
   - area: 管理科学与工程（博士）
@@ -62,10 +63,6 @@ education:
       高级机器学习（大语言模型方向），应用随机过程，模式识别，组合数学，
       机器学习在能源动力工程中的应用，能源经济学与政策，能源互联网运行、调度与规划，
       全球气候变化与应对，碳捕集、利用与封存技术
-    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    #button:
-    #  text: 'Read Thesis'
-    #  url: 'https://example.com'
   - area: 计算机科学与技术（学士）
     institution: 中国人民大学
     date_start: 2017-09-09
@@ -83,30 +80,6 @@ education:
       数学分析，统计学，随机过程，
       实变函数，应用时间序列分析，
       离散数学，微观经济学，计量经济学
-#work:
-#  - position: Director of Cloud Infrastructure
-#    company_name: GenCoin
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2021-01-01
-#    date_end: ''
-#    summary: |2-
-#      Responsibilities include:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - position: Backend Software Engineer
-#    company_name: X
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-#      Responsibilities include:
-#      - Migrated infrastructure to a new data center
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -168,6 +141,6 @@ awards:
 
 ## 个人简介
 
-朱子恒，清华大学能源环境经济研究所博士研究生 (https://www.3e.tsinghua.edu.cn)，导师为张达长聘副教授 (http://www.energyda.cn)。2021年毕业于中国人民大学 (https://www.ruc.edu.cn)，在信息学院(http://info.ruc.edu.cn)获得数学与应用数学理学士和计算机科学与技术工学士学位。
+朱子恒，清华大学能源环境经济研究所博士研究生 (https://www.3e.tsinghua.edu.cn)，导师为张达长聘副教授 (http://www.energyda.cn)。2021 年毕业于中国人民大学 (https://www.ruc.edu.cn)，在信息学院获得数学与应用数学理学士和计算机科学与技术工学士学位。
 
-研究兴趣聚焦于电力系统转型、电力市场机制以及气候变化应对策略，并致力于开发基于前沿人工智能技术的新型分析方法与工具。已成功开发了一系列覆盖中国乃至全球的综合资源规划模型，构建了考虑气候风险和机制电价的可再生能源投资项目评估模型，并开创性地研发了基于视觉-语言模型的卫星影像关键基础设施提取方法。期望通过跨学科的研究方法，为实现可持续、经济、安全的能源未来贡献力量。
+研究兴趣聚焦于电力系统转型、可再生能源并网、电力市场机制以及气候能源政策。主要工作包括开发高时空分辨率电力系统优化模型与开放数据集，支撑中国 RESPO/CISPO 模型和全球 GISPO 模型等研究框架。近期研究关注全球净零电力系统、中国碳中和电力转型路径、抽水蓄能与水电灵活性、十五五可再生能源空间布局，以及人工智能数据中心的清洁能源供给方案。也持续探索人工智能与地理空间数据在能源系统分析中的应用，希望通过跨学科方法为可持续、经济、安全的能源未来贡献力量。

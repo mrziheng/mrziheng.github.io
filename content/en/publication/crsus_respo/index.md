@@ -25,7 +25,7 @@ publication_short: "CRSus"
 
 abstract: As countries are releasing their 2035 nationally determined contributions (NDCs), we examine the renewable deployment requirements for China to meet its climate targets. We develop a power system model with high spatial and temporal resolutions to make optimal capacity expansion decisions for China’s power sector through 2035. We find that 2,350–2,780 gigawatts (GW) of wind and solar will need to be deployed by 2030 and 2,910–3,800 GW by 2035 to be consistent with a 2°C global temperature rise target. Wind and solar shares in the generation mix can increase from 17.9% in 2024 to 41%–46% in 2030 and 49%–56% in 2035. A more robust climate action framework is proposed for China’s power sector in its 2035 NDC.
 
-summary: This paper examined thedecarbonization pathways for China'spower sector through 2035 and theimplications for its 2035 target setting.They proposed a more robust climateaction framework, including minimumcapacity and generation share targets by2035 for wind and solar energy.
+summary: This paper examines decarbonization pathways for China's power sector through 2035 and proposes a more robust climate-action framework with minimum capacity and generation-share targets for wind and solar energy.
 
 tags:
 - NDC

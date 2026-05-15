@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Google Scholar
+        url: https://scholar.google.com/citations?user=nXp7Q-gAAAAJ&hl=zh-CN
     design:
       css_class: light
       background:
@@ -66,7 +66,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: 项目开发
+      title: 模型与数据
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

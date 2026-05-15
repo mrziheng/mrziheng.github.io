@@ -1,5 +1,5 @@
 ---
-title: "Integrated modeling for the transition pathway of China's power system"
+title: "中国电力系统转型路径的综合建模研究"
 authors:
 - Ziheng Zhu
 - Da Zhang*
@@ -25,7 +25,7 @@ publication_short: "EES"
 abstract: Accelerating decarbonization of the power system is at the heart of achieving China's carbon neutrality goal and mitigating global climate change. However, deploying multi-terawatts of variable renewable energy (VRE) may result in substantial system volatility. Here, using a temporally and spatially resolved model co-optimizing capacity expansion and system operation throughout the full 8760 hours in a planning year, we show that achieving −550 MtCO2 per year of negative emissions is feasible for China's power system by 2060 with 6000 GW of VRE, 5800 GW h of energy storage, and 850 MtCO2 per year of carbon capture and sequestration (CCS), at the marginal carbon abatement cost of 750–1100 yuan per tCO2 (about 108–157 $ per tCO2). Multi-millions of hectares of land areas are necessary to accommodate the TW-scale installation of solar photovoltaic panels, with restricted land policies resulting in a 3.3% increase in electricity costs. System volatility also surges with higher penetration of VRE, represented by increasing variability in hourly marginal demand cost, necessitating firm resources to ensure capacity adequacy. Although these firm sources can earn higher generation revenues in peak hours, capacity compensation amounting to hundreds of yuan per kW (about tens of $ per kW) per year is still needed. Effective planning and policy formulation are essential to support China's decarbonization effort for its power sector.
 
 # Summary. An optional shortened abstract.
-summary: A temporally and spatially resolved model charts feasible transition pathways of china's power system tonegative emissions by 2060 through renewables expansion and carbon capture.
+summary: 基于高时空分辨率模型，研究中国电力系统在可再生能源扩张和碳捕集支撑下到 2060 年实现负排放的可行路径。
 
 tags:
 - CISPO

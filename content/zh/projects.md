@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: '项目'
 date: 2024-05-19
 type: landing
 
@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: 模型与数据
+      text: 高分辨率电力系统规划模型、可再生能源资源数据集与可复现研究代码。
       filters:
         folders:
           - project

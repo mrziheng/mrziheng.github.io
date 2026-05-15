@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Google Scholar
+        url: https://scholar.google.com/citations?user=nXp7Q-gAAAAJ&hl=en
     design:
       css_class: light
       background:
@@ -66,7 +66,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Selected Projects
+      title: Models and Data
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -102,7 +102,7 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills and Hobbies
+      title: Skills
       text: ''
       username: admin
     design:

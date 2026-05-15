@@ -1,158 +1,31 @@
 ---
-title: 🌎 Global Integrated Sustainable Power-system Optimization Model (GISPO)
-summary: A spatialtemporally resolved global power system expansion and operation model.
-date: 2025-05-15
+title: Global Integrated Sustainable Power-system Optimization Model (GISPO)
+summary: A global, spatially and temporally resolved power-system planning model for net-zero transition analysis.
+date: 2026-05-04
 authors:
   - admin
 tags:
   - GISPO
   - Global
-  - Power Model
+  - Power model
+  - Net zero
   - Renewable energy
 image:
   caption: ''
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
+GISPO is a global power-system optimization framework for studying inclusive net-zero electricity systems. It represents renewable resources at cell level and models 8760 hourly operations, allowing capacity expansion, storage, transmission, firm generation, and carbon-management decisions to be optimized in a consistent framework.
 
-Use popular tools such as Plotly, Mermaid, and data frames.
+The model supports the Nature Energy study **Integrated planning of net-zero power systems for all**, which examines pathways for achieving global net-zero power systems while meeting universal electricity needs for decent living standards.
 
-## Charts
+## Data and Code
 
-Hugo Blox supports the popular [Plotly](https://plot.ly/) format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!
+- Source code and figure-reproduction scripts: [NetZero2050](https://github.com/mrziheng/NetZero2050)
+- Global renewable resource potential data: [GlobalRenewableEnergyResource](https://github.com/mrziheng/GlobalRenewableEnergyResource)
+- GISPO base-scenario LP files: [Zenodo 10.5281/zenodo.17618090](https://doi.org/10.5281/zenodo.17618090)
 
-Save your Plotly JSON in your page folder, for example `line-chart.json`, and then add the `{{</* chart data="line-chart" */>}}` shortcode where you would like the chart to appear.
+## Scope
 
-Demo:
-
-{{< chart data="line-chart" >}}
-
-You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.io/) useful.
-
-## Diagrams
-
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
-
-An example **flowchart**:
-
-    ```mermaid
-    graph TD
-    A[Hard] -->|Text| B(Round)
-    B --> C{Decision}
-    C -->|One| D[Result 1]
-    C -->|Two| E[Result 2]
-    ```
-
-renders as
-
-```mermaid
-graph TD
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
-
-An example **sequence diagram**:
-
-    ```mermaid
-    sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
-    ```
-
-renders as
-
-```mermaid
-sequenceDiagram
-Alice->>John: Hello John, how are you?
-loop Healthcheck
-    John->>John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John-->>Alice: Great!
-John->>Bob: How about you?
-Bob-->>John: Jolly good!
-```
-
-An example **class diagram**:
-
-    ```mermaid
-    classDiagram
-    Class01 <|-- AveryLongClass : Cool
-    Class03 *-- Class04
-    Class05 o-- Class06
-    Class07 .. Class08
-    Class09 --> C2 : Where am i?
-    Class09 --* C3
-    Class09 --|> Class07
-    Class07 : equals()
-    Class07 : Object[] elementData
-    Class01 : size()
-    Class01 : int chimp
-    Class01 : int gorilla
-    Class08 <--> C2: Cool label
-    ```
-
-renders as
-
-```mermaid
-classDiagram
-Class01 <|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --> C2 : Where am i?
-Class09 --* C3
-Class09 --|> Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 <--> C2: Cool label
-```
-
-An example **state diagram**:
-
-    ```mermaid
-    stateDiagram
-    [*] --> Still
-    Still --> [*]
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-    ```
-
-renders as
-
-```mermaid
-stateDiagram
-[*] --> Still
-Still --> [*]
-Still --> Moving
-Moving --> Still
-Moving --> Crash
-Crash --> [*]
-```
-
-## Data Frames
-
-Save your spreadsheet as a CSV file in your page's folder and then render it by adding the _Table_ shortcode to your page:
-
-```go
-{{</* table path="results.csv" header="true" caption="Table 1: My results" */>}}
-```
-
-renders as
-
-{{< table path="results.csv" header="true" caption="Table 1: My results" >}}
-
-## Did you find this page helpful? Consider sharing it 🙌
+- Global renewable resource assessment for onshore wind, offshore wind, utility-scale solar PV, and rooftop solar PV.
+- Power-system capacity expansion and operation with hourly temporal resolution.
+- Analysis of energy access, land use, storage, international transmission, trade barriers, carbon capture, and system costs.
