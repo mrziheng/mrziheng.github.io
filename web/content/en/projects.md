@@ -12,12 +12,12 @@ sections:
   - block: collection
     content:
       title: Models and Data
-      text: GISPO, CISPO, and E-RAM connect geospatial resource assessment with power-system planning, hourly operation, storage, transmission, carbon management, and reproducible data workflows.
+      text: GISPO, CISPO, and E-RAM connect resource data with power-system planning, hourly operation, flexibility, and carbon-management decisions.
       filters:
         folders:
           - project
     design:
       view: article-grid
-      fill_image: false
+      fill_image: true
       columns: 3
 ---

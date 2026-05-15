@@ -1,6 +1,6 @@
 ---
 title: Global Integrated Sustainable Power-system Optimization Model (GISPO)
-summary: A global high-resolution planning model that co-optimizes renewable siting, 8760-hour operations, storage, transmission, firm generation, carbon management, and energy-access targets for net-zero power-system studies.
+summary: Global 8760-hour planning model for net-zero power systems, linking renewable siting, storage, transmission, and carbon management.
 date: 2026-05-04
 math: true
 authors:

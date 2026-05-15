@@ -69,11 +69,11 @@ sections:
     content:
       title: Models and Data
       subtitle: ''
-      text: High-resolution energy-system models and datasets, including GISPO for global net-zero power-system planning, CISPO for China's carbon-neutral power transition, and E-RAM for renewable, storage, biomass, and carbon-storage resource assessment.
+      text: "Three model assets anchor the work: GISPO for global net-zero power systems, CISPO for China's carbon-neutral transition, and E-RAM for geospatial energy resource data."
       # Page type to display. E.g. post, talk, publication...
       page_type: project
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 3
       # Filter on criteria
       filters:
         author: ""
@@ -89,7 +89,9 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: article-grid
+      fill_image: true
+      columns: 3
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]

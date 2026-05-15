@@ -1,6 +1,6 @@
 ---
 title: China Integrated Sustainable Power-system Optimization Model (CISPO)
-summary: A China-focused high-resolution power-system planning model for carbon-neutral transition analysis, coupling renewable siting, hourly operation, storage, hydropower, transmission, CCS, DAC, reserves, and inertia constraints.
+summary: China-focused planning model for carbon-neutral power transition, resolving provincial grids, hourly operations, flexibility, and CCS/DAC.
 date: 2025-03-25
 math: true
 authors:

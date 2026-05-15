@@ -1,6 +1,6 @@
 ---
 title: Energy Resource Assessment Model (E-RAM)
-summary: A geospatial resource-assessment workflow that converts meteorological, land-cover, hydrological, biomass, and geological data into model-ready renewable, storage, biomass, and carbon-sequestration datasets.
+summary: Geospatial data engine that turns climate, land, hydro, biomass, and geology data into model-ready energy resource potentials.
 date: 2025-02-25
 math: true
 authors:

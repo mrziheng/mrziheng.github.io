@@ -1,6 +1,6 @@
 ---
 title: Models and Data
-summary: High-resolution power-system optimization models and geospatial resource datasets for global and China-focused net-zero electricity-system analysis.
+summary: "GISPO, CISPO, and E-RAM: model assets for net-zero power-system planning and geospatial energy resource assessment."
 type: landing
 
 cascade:
@@ -14,12 +14,12 @@ sections:
     id: project
     content:
       title: Models and Data
-      text: GISPO, CISPO, and E-RAM connect geospatial resource assessment with power-system planning, hourly operation, storage, transmission, carbon management, and reproducible data workflows.
+      text: GISPO, CISPO, and E-RAM connect resource data with power-system planning, hourly operation, flexibility, and carbon-management decisions.
       filters:
         folders:
           - project
     design:
       view: article-grid
-      fill_image: false
+      fill_image: true
       columns: 3
 ---
