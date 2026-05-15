@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Ph.D., Tsinghua University
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -132,7 +132,7 @@ awards:
 
 ## About Me
 
-I am a Ph.D. candidate at Tsinghua University. I received dual bachelor's degrees in mathematics and computer science from the School of Information, Renmin University of China (https://www.ruc.edu.cn).
+I received my Ph.D. from Tsinghua University. I received dual bachelor's degrees in mathematics and computer science from the School of Information, Renmin University of China (https://www.ruc.edu.cn).
 
 
 My research focuses on power-system transformation, renewable energy integration, electricity markets, and climate-energy policy. I develop high-resolution optimization models and open datasets for planning low-carbon power systems, including China-focused RESPO/CISPO models and the global GISPO framework. Recent work has examined global net-zero power systems, China's carbon-neutral power pathways, pumped-storage and hydropower flexibility, renewable deployment for the 15th Five-Year Plan, and clean-energy options for AI data centers. I am also interested in using artificial intelligence and geospatial data to build practical tools for a sustainable, economical, and secure energy future.
