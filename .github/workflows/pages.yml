@@ -43,7 +43,8 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
-          go-version-file: go.mod
+          go-version-file: web/go.mod
+          cache-dependency-path: web/go.sum
           cache: true
 
       - name: Setup Pages
@@ -51,16 +52,18 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build with Hugo
+        working-directory: web
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
         run: |
           hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
           npx -y pagefind --source public
+          if [ -f CNAME ]; then cp CNAME public/CNAME; fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: web/public
 
   deploy:
     environment:

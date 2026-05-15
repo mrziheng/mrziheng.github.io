@@ -1,7 +1,8 @@
-.hugo_build.lock
-hugo_stats.json
-public/
-resources/
-node_modules/
+.codex_tmp/
+web/.hugo_build.lock
+web/hugo_stats.json
+web/public/
+web/resources/
+web/node_modules/
 .DS_Store
 Thumbs.db
