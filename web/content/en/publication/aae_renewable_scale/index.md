@@ -39,3 +39,8 @@ slides: ""
 ---
 
 This study connects power-system modeling with political-economy constraints by identifying when and where renewable deployment pressures may become binding in China's transition pathway.
+
+<figure>
+  <img src="./paper.png" alt="First page of the Advances in Applied Energy paper">
+  <figcaption>Figure 1: Advances in Applied Energy paper.</figcaption>
+</figure>

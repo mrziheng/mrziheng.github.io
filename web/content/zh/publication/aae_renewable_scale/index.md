@@ -39,3 +39,8 @@ slides: ""
 ---
 
 该研究将电力系统建模与地方部署约束相结合，识别中国电力转型中可再生能源部署压力可能集中的时期和区域。
+
+<figure>
+  <img src="./paper.png" alt="Advances in Applied Energy 论文首页">
+  <figcaption>图 1：Advances in Applied Energy 论文首页。</figcaption>
+</figure>
