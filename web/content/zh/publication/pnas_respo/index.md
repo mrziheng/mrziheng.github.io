@@ -38,6 +38,7 @@ tags:
 - Power system
 - Land use
 featured: true
+featured_order: 9
 
 # links:
 # - name: ""

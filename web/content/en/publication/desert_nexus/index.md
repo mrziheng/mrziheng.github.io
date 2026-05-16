@@ -20,6 +20,7 @@ tags:
 - Desert power
 - Energy systems
 featured: true
+featured_order: 1
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2950160126000045'
 url_code: 'https://github.com/mrziheng/DesertPowerAIDC'
 url_dataset: ''

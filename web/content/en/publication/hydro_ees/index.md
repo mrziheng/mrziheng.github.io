@@ -21,6 +21,7 @@ tags:
 - Pumped storage
 - Power system
 featured: true
+featured_order: 4
 url_pdf: 'https://pubs.rsc.org/en/content/articlepdf/2026/ee/d5ee05948h'
 url_code: 'https://github.com/mrziheng/HydroCHN'
 url_dataset: ''

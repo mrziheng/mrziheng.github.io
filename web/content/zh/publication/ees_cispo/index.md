@@ -33,6 +33,7 @@ tags:
 - Power system
 - Transition pathway
 featured: true
+featured_order: 5
 
 # links:
 # - name: ""

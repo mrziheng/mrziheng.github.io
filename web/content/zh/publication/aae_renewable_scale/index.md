@@ -22,6 +22,7 @@ tags:
 - Renewable energy
 - Policy
 featured: true
+featured_order: 7
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2666792425000320'
 url_code: 'https://github.com/Power-Lab/AdvAppliedEnergy_Pathways_2025'
 url_dataset: 'https://doi.org/10.5281/zenodo.14907700'

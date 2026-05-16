@@ -33,6 +33,7 @@ tags:
 - China
 - Management
 featured: true
+featured_order: 10
 
 # links:
 # - name: ""

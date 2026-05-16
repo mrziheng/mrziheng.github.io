@@ -29,6 +29,7 @@ tags:
 - Power system
 - Energy access
 featured: true
+featured_order: 2
 url_pdf: ''
 url_code: 'https://github.com/mrziheng/NetZero2050'
 url_dataset: 'https://github.com/mrziheng/GlobalRenewableEnergyResource'

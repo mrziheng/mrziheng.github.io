@@ -33,6 +33,7 @@ tags:
 - Power system
 - RESPO
 featured: true
+featured_order: 8
 
 # links:
 # - name: ""

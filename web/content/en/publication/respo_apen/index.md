@@ -31,6 +31,7 @@ tags:
 - Power system
 - 15th Five-Year Plan
 featured: true
+featured_order: 6
 
 # links:
 # - name: ""

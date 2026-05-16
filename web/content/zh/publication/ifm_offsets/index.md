@@ -22,6 +22,7 @@ tags:
 - Remote sensing
 - Causal inference
 featured: true
+featured_order: 3
 url_pdf: 'https://pubs.acs.org/doi/pdf/10.1021/acs.est.5c11387'
 url_code: ''
 url_dataset: ''

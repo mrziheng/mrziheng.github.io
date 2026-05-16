@@ -51,6 +51,8 @@ sections:
           - publication
         featured_only: true
       count: 6
+      sort_by: featured_order
+      sort_ascending: true
     design:
       view: article-grid
       columns: 3
