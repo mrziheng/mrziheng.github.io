@@ -54,6 +54,8 @@ sections:
     design:
       view: article-grid
       columns: 3
+      spacing:
+        padding: [6rem, 0, 2rem, 0]
   - block: collection
     id: talks
     content:
@@ -64,6 +66,8 @@ sections:
     design:
       view: article-grid
       columns: 2
+      spacing:
+        padding: [2rem, 0, 6rem, 0]
   - block: collection
     id: news
     content:
