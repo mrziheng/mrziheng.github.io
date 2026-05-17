@@ -1,7 +1,7 @@
 ---
 title: 能源资源评估模型（E-RAM）
 summary: 将气象、土地、水文、生物质和地质数据转化为可直接用于模型的能源资源潜力数据。
-date: 2025-05-25
+date: 2025-02-25
 math: true
 authors:
   - admin
