@@ -24,11 +24,11 @@ Open <http://localhost:1313/> for English and <http://localhost:1313/zh/> for Ch
 ## Build
 
 ```powershell
-hugo --gc --minify
+hugo --gc --minify --buildFuture
 npx -y pagefind --site public
 ```
 
-Production builds intentionally do not use `--buildFuture`, so future-dated papers stay out of the public site until their `date` arrives.
+Production builds use `--buildFuture` because some accepted publications can have official issue dates later than the deployment date.
 
 ## Content Notes
 
