@@ -125,6 +125,21 @@
       0 18px 42px rgba(15, 23, 42, 0.16),
       inset 0 1px 0 rgba(255, 255, 255, 0.78);
     backdrop-filter: blur(12px);
+    overflow: visible;
+    translate: -0.65rem 1.2rem;
+  }
+
+  .navbar [data-hb-language-chooser] + ul::before {
+    content: "";
+    position: absolute;
+    top: -0.32rem;
+    right: 1.05rem;
+    width: 0.64rem;
+    height: 0.64rem;
+    border-top: 1px solid rgba(15, 23, 42, 0.1);
+    border-left: 1px solid rgba(15, 23, 42, 0.1);
+    background: rgba(255, 255, 255, 0.99);
+    transform: rotate(45deg);
   }
 
   .navbar [data-hb-language-chooser] + ul a {
@@ -260,6 +275,11 @@
       inset 0 1px 0 rgba(255, 255, 255, 0.06);
   }
 
+  .dark .navbar [data-hb-language-chooser] + ul::before {
+    border-color: rgba(255, 255, 255, 0.12);
+    background: rgba(31, 41, 55, 0.96);
+  }
+
   .dark .navbar [data-hb-language-chooser] + ul a {
     color: rgb(243, 244, 246);
   }
@@ -298,6 +318,7 @@
 
     .navbar [data-hb-language-chooser] + ul {
       min-width: 8.1rem;
+      translate: -0.35rem 1.15rem;
     }
   }
 
