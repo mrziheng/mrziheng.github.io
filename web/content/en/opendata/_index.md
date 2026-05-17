@@ -1,7 +1,8 @@
 ---
 title: Open Data
-summary: My courses
+summary: Draft area for future datasets and reproducible resources.
 type: landing
+draft: true
 
 cascade:
   - _target:

@@ -3,12 +3,10 @@ title: "Incorporating Data Centers into China’s National Carbon Emissions Trad
 authors:
 - Ziheng Zhu
 - Ce Zhang
-- Zhaohao Ding*
-- Da Zhang*
-author_notes:
-- "* Corresponding"
+- Zhaohao Ding
+- Da Zhang
 date: "2024-07-17"
-doi: "10.13334/j.0258-8013.pcsee.230111"
+doi: "https://doi.org/10.13334/j.0258-8013.pcsee.230111"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-17"
@@ -66,7 +64,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 <figure>

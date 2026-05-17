@@ -4,7 +4,14 @@ authors:
 - Ziheng Zhu
 - Shiping Ma
 - Hanjie Mao
-- Et Al.
+- Junting Zhong
+- Lifeng Guo
+- Deying Wang
+- Junling Huang
+- Changhong Miao
+- Xiaoye Zhang
+- Xiliang Zhang
+- Da Zhang
 date: "2025-11-15"
 doi: "https://doi.org/10.1016/j.apenergy.2025.126413"
 
@@ -64,7 +71,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 <figure>

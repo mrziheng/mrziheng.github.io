@@ -2,11 +2,9 @@
 title: "增强改进森林经营碳抵消可信度的动态事后基线"
 authors:
 - Runxin Yu
-- Ziheng Zhu*
+- Ziheng Zhu
 - Shize Qin
-- Da Zhang*
-author_notes:
-- "* Corresponding"
+- Da Zhang
 date: "2026-02-23"
 doi: "https://doi.org/10.1021/acs.est.5c11387"
 publishDate: "2026-02-23"

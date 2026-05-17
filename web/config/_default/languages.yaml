@@ -7,6 +7,11 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
+  params:
+    header:
+      navbar:
+        logo:
+          text: Home
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
@@ -15,6 +20,13 @@ zh:
   title: 朱子恒
   params:
     description: 朱子恒，清华大学博士，研究方向包括电力系统规划、可再生能源并网、电力市场与人工智能赋能的能源系统分析。
+    marketing:
+      seo:
+        description: 朱子恒，清华大学博士，研究方向包括电力系统规划、可再生能源并网、电力市场与人工智能赋能的能源系统分析。
+    header:
+      navbar:
+        logo:
+          text: 首页
   menus:
     main:
       - name: 论文发表

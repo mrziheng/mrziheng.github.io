@@ -1,15 +1,16 @@
 ---
 title: "Ratcheting up wind and solar targets for decarbonizing the power sector in China and beyond"
 authors:
-- Zhenhua Zhang#
-- Ziheng Zhu#
+- Zhenhua Zhang
+- Ziheng Zhu
 - Xi Lu
-- Da Zhang*
--  Michael R. Davidson*
+- Da Zhang
+- Michael R. Davidson
 author_notes:
-- "* Corresponding"
+- Equal contribution
+- Equal contribution
 date: "2025-05-15"
-doi: "10.1016/j.crsus.2025.100389"
+doi: "https://doi.org/10.1016/j.crsus.2025.100389"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-05-15"
@@ -66,7 +67,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 <figure>

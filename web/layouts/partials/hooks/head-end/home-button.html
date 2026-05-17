@@ -4,6 +4,32 @@
     gap: 0.5rem;
   }
 
+  @media (min-width: 1024px) {
+    .navbar {
+      position: relative;
+      justify-content: space-between;
+      min-height: 3.5rem;
+    }
+
+    .navbar .order-0,
+    .navbar .order-1 {
+      position: relative;
+      z-index: 2;
+    }
+
+    .navbar #nav-menu {
+      position: absolute;
+      left: 50%;
+      z-index: 1;
+      width: auto !important;
+      max-width: min(44rem, calc(100% - 24rem));
+      justify-content: center !important;
+      padding-bottom: 0 !important;
+      transform: translateX(-50%);
+      white-space: nowrap;
+    }
+  }
+
   .navbar .navbar-brand,
   .navbar label[for="nav-toggle"],
   .navbar #search_toggle,
@@ -330,6 +356,10 @@
 
   .blox-resume-biography-3.light {
     color: rgba(15, 23, 42, 0.86);
+  }
+
+  .blox-resume-biography-3 a.inline-flex > svg[aria-hidden="true"] {
+    display: none;
   }
 
   .blox-resume-biography-3.light .home-section-bg {

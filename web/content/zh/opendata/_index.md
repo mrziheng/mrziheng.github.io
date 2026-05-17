@@ -1,7 +1,8 @@
 ---
 title: 数据开源
-summary: My courses
+summary: 预留给未来数据集和可复现资源的草稿区域。
 type: landing
+draft: true
 
 cascade:
   - _target:

@@ -2,11 +2,9 @@
 title: "中国电力系统转型路径的综合建模研究"
 authors:
 - Ziheng Zhu
-- Da Zhang*
-- Xiaoye Zhang*
-- Xiliang Zhang*
-author_notes:
-- "* Corresponding"
+- Da Zhang
+- Xiaoye Zhang
+- Xiliang Zhang
 date: "2025-02-17"
 doi: "https://doi.org/10.1039/D5EE00355E"
 
@@ -59,14 +57,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- CISPO
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 <figure>

@@ -2,11 +2,9 @@
 title: "Dynamic Ex-Post Baselines for Enhancing the Credibility of Improved Forest Management Carbon Offsets"
 authors:
 - Runxin Yu
-- Ziheng Zhu*
+- Ziheng Zhu
 - Shize Qin
-- Da Zhang*
-author_notes:
-- "* Corresponding"
+- Da Zhang
 date: "2026-02-23"
 doi: "https://doi.org/10.1021/acs.est.5c11387"
 publishDate: "2026-02-23"

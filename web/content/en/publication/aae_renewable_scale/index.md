@@ -35,7 +35,8 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: []
+projects:
+- CISPO
 slides: ""
 ---
 
