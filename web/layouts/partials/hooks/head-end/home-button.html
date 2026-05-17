@@ -327,4 +327,136 @@
       display: none !important;
     }
   }
+
+  .blox-resume-biography-3.light {
+    color: rgba(15, 23, 42, 0.86);
+  }
+
+  .blox-resume-biography-3.light .home-section-bg {
+    filter: saturate(0.96) brightness(1.04) !important;
+  }
+
+  .blox-resume-biography-3.light .bio-text,
+  .blox-resume-biography-3.light .portrait-title,
+  .blox-resume-biography-3.light .grid {
+    color: rgba(15, 23, 42, 0.84);
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.16);
+  }
+
+  .blox-resume-biography-3.light .bio-text h2,
+  .blox-resume-biography-3.light .section-subheading {
+    color: rgb(2, 6, 23);
+  }
+
+  .dark .blox-resume-biography-3.light,
+  .dark .blox-resume-biography-3.light .bio-text,
+  .dark .blox-resume-biography-3.light .portrait-title,
+  .dark .blox-resume-biography-3.light .grid {
+    color: rgba(255, 255, 255, 0.88);
+    text-shadow: 0 1px 12px rgba(0, 0, 0, 0.2);
+  }
+
+  .dark .blox-resume-biography-3.light .bio-text h2,
+  .dark .blox-resume-biography-3.light .section-subheading {
+    color: rgba(255, 255, 255, 0.96);
+  }
+
+  .page-body .pub-list-item.view-citation {
+    position: relative;
+    margin-bottom: 0 !important;
+    padding: 1.15rem 0 1.25rem 1.15rem;
+    border-top: 1px solid rgba(148, 163, 184, 0.22);
+    color: rgb(31, 41, 55);
+    line-height: 1.55;
+  }
+
+  .page-body .pub-list-item.view-citation:first-child {
+    border-top: 0;
+    padding-top: 0.2rem;
+  }
+
+  .page-body .pub-list-item.view-citation::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 1.45rem;
+    width: 0.32rem;
+    height: 0.32rem;
+    border-radius: 999px;
+    background: rgb(5, 150, 105);
+    box-shadow: 0 0 0 0.26rem rgba(5, 150, 105, 0.1);
+  }
+
+  .page-body .pub-list-item.view-citation:first-child::before {
+    top: 0.5rem;
+  }
+
+  .page-body .pub-list-item.view-citation > a.underline {
+    color: rgb(15, 23, 42);
+    font-weight: 700;
+    text-decoration-color: rgba(15, 23, 42, 0.26);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+  }
+
+  .page-body .pub-list-item.view-citation > a.underline:hover {
+    color: rgb(4, 120, 87);
+    text-decoration-color: rgba(4, 120, 87, 0.55);
+  }
+
+  .page-body .article-metadata.li-cite-author {
+    color: rgb(55, 65, 81);
+  }
+
+  .page-body .hb-attachment-link.hb-attachment-small {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.22rem;
+    margin-top: 0.28rem;
+    font-size: 0.93rem;
+    font-weight: 700;
+  }
+
+  .dark .page-body .pub-list-item.view-citation {
+    border-color: rgba(148, 163, 184, 0.2);
+    color: rgba(243, 244, 246, 0.86);
+  }
+
+  .dark .page-body .pub-list-item.view-citation > a.underline {
+    color: rgb(255, 255, 255);
+    text-decoration-color: rgba(255, 255, 255, 0.32);
+  }
+
+  .dark .page-body .pub-list-item.view-citation > a.underline:hover {
+    color: rgb(167, 243, 208);
+    text-decoration-color: rgba(167, 243, 208, 0.55);
+  }
+
+  .dark .page-body .article-metadata.li-cite-author {
+    color: rgba(229, 231, 235, 0.86);
+  }
+
+  @media (max-width: 767px) {
+    .blox-resume-biography-3 {
+      padding-top: 3.25rem !important;
+      padding-bottom: 4rem !important;
+    }
+
+    .blox-resume-biography-3 .resume-biography {
+      gap: 2rem;
+    }
+
+    .blox-resume-biography-3 .avatar-wrapper {
+      margin-top: 1.25rem !important;
+    }
+
+    .blox-resume-biography-3 .bio-text p {
+      line-height: 1.68;
+    }
+
+    .page-body .pub-list-item.view-citation {
+      padding-left: 0.95rem;
+      font-size: 0.98rem;
+    }
+  }
 </style>

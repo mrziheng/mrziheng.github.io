@@ -16,13 +16,13 @@ main:
   #- name: Experience • 个人经历
   #  url: experience/
   # weight: 10
-  - name: Publications • 论文发表
+  - name: Publications
     url: publication/
     weight: 10
-  - name: Talks • 学术报告
+  - name: Talks
     url: event/
     weight: 20
-  - name: Projects • 项目开发
+  - name: Projects
     url: project/
     weight: 30
   #- name: Data • 数据开源

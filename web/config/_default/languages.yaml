@@ -15,6 +15,17 @@ zh:
   title: 朱子恒
   params:
     description: 朱子恒，清华大学博士，研究方向包括电力系统规划、可再生能源并网、电力市场与人工智能赋能的能源系统分析。
+  menus:
+    main:
+      - name: 论文发表
+        url: publication/
+        weight: 10
+      - name: 学术报告
+        url: event/
+        weight: 20
+      - name: 项目开发
+        url: project/
+        weight: 30
 #  menu:
 #    main:
 #      - name: 传
