@@ -117,6 +117,9 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Tsinghua University Outstanding Doctoral Dissertation, 2025-2026
+    date: '2026-06-01'
+    awarder: Tsinghua University
   - title: Friends of Tsinghua - Xie Zhenhua Energy and Environment Scholarship 
     url: https://www.env.tsinghua.edu.cn/info/1129/8987.htm
     date: '2024-06-21'

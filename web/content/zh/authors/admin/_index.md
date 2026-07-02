@@ -125,6 +125,9 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: 清华大学2025-2026年优秀博士学位论文
+    date: '2026-06-01'
+    awarder: 清华大学
   - title: 清华之友-解振华能源环境奖学金综合优秀奖
     url: https://www.env.tsinghua.edu.cn/info/1129/8987.htm
     date: '2024-06-21'
