@@ -501,8 +501,8 @@
       }
 
       img.setAttribute("src", avatarSrc);
-      img.setAttribute("srcset", avatarSrc + " 1254w");
-      img.setAttribute("sizes", "150px");
+      img.removeAttribute("srcset");
+      img.removeAttribute("sizes");
       img.setAttribute("decoding", "async");
     }
 
