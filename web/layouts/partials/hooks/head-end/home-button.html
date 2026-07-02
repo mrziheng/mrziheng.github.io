@@ -490,3 +490,53 @@
     }
   }
 </style>
+<script>
+  (function () {
+    var avatarSrc = "{{ "media/avatar-ziheng-20260702.jpg" | relURL }}";
+
+    function upgradeImage(img) {
+      var src = img.getAttribute("src") || "";
+      if (src.indexOf("avatar_hu") === -1) {
+        return;
+      }
+
+      img.setAttribute("src", avatarSrc);
+      img.setAttribute("srcset", avatarSrc + " 1254w");
+      img.setAttribute("sizes", "150px");
+      img.setAttribute("decoding", "async");
+    }
+
+    function upgradeAvatar(root) {
+      if (!root) {
+        return;
+      }
+
+      if (root.matches && root.matches("img.avatar")) {
+        upgradeImage(root);
+      }
+
+      if (root.querySelectorAll) {
+        root.querySelectorAll("img.avatar").forEach(upgradeImage);
+      }
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", function () {
+        upgradeAvatar(document);
+      });
+    } else {
+      upgradeAvatar(document);
+    }
+
+    new MutationObserver(function (mutations) {
+      mutations.forEach(function (mutation) {
+        mutation.addedNodes.forEach(function (node) {
+          if (node.nodeType !== 1) {
+            return;
+          }
+          upgradeAvatar(node);
+        });
+      });
+    }).observe(document.documentElement, { childList: true, subtree: true });
+  })();
+</script>
